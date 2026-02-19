@@ -1,0 +1,5 @@
+Agents must greet customers politely.
+Agents must show empathy when customers are frustrated.
+Agents must use professional language.
+Agents must not make false promises.
+Agents must close the conversation politely.
