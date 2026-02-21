@@ -1,13 +1,22 @@
-GenAI-Powered Customer Support Quality Auditor is an AI-driven dashboard application that automatically evaluates customer support conversations using Natural Language Processing (NLP) and Large Language Models (LLMs).
+# GenAI-Powered Customer Support Quality Auditor
 
-The system analyzes transcripts and generates quality scores based on:
+**GenAI-Powered Customer Support Quality Auditor** is an AI-driven dashboard application that automatically evaluates customer support conversations using **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**.
 
-Empathy
+The system analyzes transcripts and generates quality scores based on key metrics:
 
-Compliance
+- **Empathy & Compliance**
+- **Professionalism**
+- **Overall Performance**
 
-Professionalism
+This helps organizations improve customer support quality through automated, **data-driven insights**.
 
-Overall Performance
+## Demo
 
-This helps organizations improve customer support quality through automated, data-driven insights.
+Check out the live dashboard here: [📊 Support Audit AI Dashboard](https://genai-powered-customer-support-quality-auditor-hjypjwhvkm8bdel.streamlit.app/)
+
+## Features
+
+- Automatic analysis of customer support transcripts
+- Interactive dashboard to visualize quality scores
+- Downloadable reports in CSV/Excel format
+- AI-driven insights for coaching and training
